@@ -14,6 +14,9 @@ The course will teach the basics of how to reason with data.
   - Group 1: Thursday 4-5pm in MVB 2.11
   - Group 2: Thursday 5-6pm in MVB 2.11
 * Strikes: Laurence is on strike for three Thursdays (9th Feb, 16th Feb and 23rd Feb).  There will therefore be no lectures on those days. The Monday lectures + Thursday labs are still going ahead.
+* Revision online Teams QA sessions:
+  - Laurence: Thursday 27th April 1pm
+  - Majid: Thursday 4th May 1pm
 
 ## Lecture recordings:
 All lecture recordings are present on the Re/Play system in BlackBoard.  (Click on Re/Play on the left menu bar on the BB course webpage).  Note that lectures should appear automatically, but may take a few hours to turn up in Re/Play.
@@ -42,6 +45,16 @@ All lecture recordings are present on the Re/Play system in BlackBoard.  (Click 
 * If you have any questions regarding alternative exam arrangements, please get in touch with the school office (coms-info@bristol.ac.uk): we don't have any involvement in this.
 * We will release past papers towards the end of Majid's teaching.
 * There is a formula sheet in the exam (which is currently in the Teams channel).
+
+## Past exams:
+| Year  | Paper | Answers | Questions to ignore |
+| ----- | ----- | ------- | --- |
+| 20/21 | [pdf](/past_exams/main_2021.pdf) | [pdf](/past_exams/main_2021_answers.pdf) | 13,14,15 |
+| 21/22 | [pdf](/past_exams/main_2122.pdf) | [pdf](/past_exams/main_2122_answers.pdf) | 17,18,19,20 |
+
+Important notes:
+* We have rejigged the course content a bit this year, so some questions are no longer relevant.  These questions are in the "Questions to ignore" column.
+* The 20/21 exam was exceptionally shorter due to the pandemic.  This year's exam will have 20 questions, like the 21/22 exam.
 
 ## Alternative resources
 Important: these are not pre-requisites!  The course material should be fully self-contained.  But some of this may be useful if you want an alternative presentations of some of the material and/or if you have a general interest in data-science.  Feel free to raise an issue/pull-request if you have recommendations for other resources.
@@ -116,3 +129,9 @@ Important: these are not pre-requisites!  The course material should be fully se
 #### Week 22: 17/04/2023
 | Lecture |  slides |
 | ------ | ---- |
+#### Week 22: 17/04/2023
+| Lecture |  slides |
+| ------ | ---- |
+| MM08. Features | [[pdf]](Slides/COMS20011-MMLec08.pdf)|
+| Problem Sheet 05 (Self/Group study) | [[pdf]]  |
+| Problem Sheet 05 - Answers          | [[pdf]]  |
