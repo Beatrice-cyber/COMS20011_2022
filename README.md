@@ -14,7 +14,7 @@ The course will teach the basics of how to reason with data.
   - Group 1: Thursday 4-5pm in MVB 2.11
   - Group 2: Thursday 5-6pm in MVB 2.11
 * Strikes: Laurence is on strike for three Thursdays (9th Feb, 16th Feb and 23rd Feb).  There will therefore be no lectures on those days. The Monday lectures + Thursday labs are still going ahead.
-* Revision online QA sessions:
+* Revision online Teams QA sessions:
   - Laurence: Thursday 27th April 1pm
   - Majid: Thursday 4th May 1pm
 
