@@ -49,8 +49,12 @@ All lecture recordings are present on the Re/Play system in BlackBoard.  (Click 
 ## Past exams:
 | Year  | Paper | Answers | Questions to ignore |
 | ----- | ----- | ------- | --- |
-| 20/21 | [pdf](/past_exams/main_2021.pdf) | [pdf](/past_exams/main_2021_answers.pdf) | ... |
-| 21/22 | [pdf](/past_exams/main_2122.pdf) | [pdf](/past_exams/main_2122_answers.pdf) | ... |
+| 20/21 | [pdf](/past_exams/main_2021.pdf) | [pdf](/past_exams/main_2021_answers.pdf) | 13,14,15 |
+| 21/22 | [pdf](/past_exams/main_2122.pdf) | [pdf](/past_exams/main_2122_answers.pdf) | 17,18,19,20 |
+
+Important notes:
+* We have rejigged the course content a bit this year, so some questions are no longer relevant.  These questions are in the "Questions to ignore" column.
+* The 20/21 exam was exceptionally shorter due to the pandemic.  This year's exam will have 20 questions, like the 21/22 exam.
 
 ## Alternative resources
 Important: these are not pre-requisites!  The course material should be fully self-contained.  But some of this may be useful if you want an alternative presentations of some of the material and/or if you have a general interest in data-science.  Feel free to raise an issue/pull-request if you have recommendations for other resources.
