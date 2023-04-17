@@ -129,3 +129,9 @@ Important: these are not pre-requisites!  The course material should be fully se
 #### Week 22: 17/04/2023
 | Lecture |  slides |
 | ------ | ---- |
+#### Week 22: 17/04/2023
+| Lecture |  slides |
+| ------ | ---- |
+| MM04. Features | [[pdf]](Slides/COMS20011-MMLec08.pdf)|
+| Problem Sheet 05 (Self/Group study) | [[pdf]]  |
+| Problem Sheet 05 - Answers          | [[pdf]]  |
