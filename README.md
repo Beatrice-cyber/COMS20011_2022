@@ -126,12 +126,11 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Problem Sheet 04 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM04.pdf)  |
 | Problem Sheet 04 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM04-Solutions.pdf) |
 
-#### Week 22: 17/04/2023
-| Lecture |  slides |
-| ------ | ---- |
+
 #### Week 22: 17/04/2023
 | Lecture |  slides |
 | ------ | ---- |
 | MM08. Features | [[pdf]](Slides/COMS20011-MMLec08.pdf)|
-| Problem Sheet 05 (Self/Group study) | [[pdf]]  |
+| Problem Sheet 05 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM05.pdf) |
 | Problem Sheet 05 - Answers          | [[pdf]]  |
+| Code to play with  |  [[Sobel.py]](ProblemSheets/sobel.py)  [[FFT.py]](ProblemSheets/FFT.py)  |
