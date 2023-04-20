@@ -131,6 +131,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Lecture |  slides |
 | ------ | ---- |
 | MM08. Features | [[pdf]](Slides/COMS20011-MMLec08.pdf)|
+| MM09. Features | [[pdf]](Slides/COMS20011-MMLec09.pdf)|
 | Problem Sheet 05 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM05.pdf) |
-| Problem Sheet 05 - Answers          | [[pdf]]  |
+| Problem Sheet 05 - Answers          | [[pdf]](ProblemSheets/ProblemSheet-MM05-Solutions.pdf)  |
 | Code to play with  |  [[Sobel.py]](ProblemSheets/sobel.py)  [[FFT.py]](ProblemSheets/FFT.py)  |
