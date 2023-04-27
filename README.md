@@ -45,6 +45,7 @@ All lecture recordings are present on the Re/Play system in BlackBoard.  (Click 
 * If you have any questions regarding alternative exam arrangements, please get in touch with the school office (coms-info@bristol.ac.uk): we don't have any involvement in this.
 * We will release past papers towards the end of Majid's teaching.
 * There is a formula sheet in the exam (which is currently in the Teams channel).
+* You are allowed to write on the exam paper, and we have a number of sheets at the back of the exam paper that are explicitly for workings out!  (Apparently, the invigilators aren't allowed to give you extra paper for workings out in MCQ exams, for some reason that nobody seems to know...)
 
 ## Past exams:
 | Year  | Paper | Answers | Questions to ignore |
