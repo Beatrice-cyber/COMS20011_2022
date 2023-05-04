@@ -45,6 +45,7 @@ All lecture recordings are present on the Re/Play system in BlackBoard.  (Click 
 * If you have any questions regarding alternative exam arrangements, please get in touch with the school office (coms-info@bristol.ac.uk): we don't have any involvement in this.
 * We will release past papers towards the end of Majid's teaching.
 * There is a formula sheet in the exam (which is currently in the Teams channel).
+* You are allowed to write on the exam paper, and we have a number of sheets at the back of the exam paper that are explicitly for workings out!  (Apparently, the invigilators aren't allowed to give you extra paper for workings out in MCQ exams, for some reason that nobody seems to know...)
 
 ## Past exams:
 | Year  | Paper | Answers | Questions to ignore |
@@ -107,6 +108,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 | [QA session 1 (recording)](https://uob.sharepoint.com/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230223_130237-Meeting%20Recording.mp4?web=1) |
 | [Maximum likelihood and Classification (pdf)](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/maximum_likelihood.pdf) |
 | [QA session 2 (recording)](https://uob.sharepoint.com/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230309_130009-Meeting%20Recording.mp4?web=1) |
+| [Revision QA session (recording)](https://uob.sharepoint.com/:v:/r/teams/UnitTeams-COMS20011-2022-23-TB-2-A/Shared%20Documents/General/Recordings/View%20Only/QA-20230427_130047-Meeting%20Recording.mp4?csf=1&web=1&e=9sf67N) |
 
 #### Feature Extraction and Analysis (Majid)
 #### Week 20: 13/03/2023
