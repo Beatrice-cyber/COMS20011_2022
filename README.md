@@ -50,8 +50,8 @@ All lecture recordings are present on the Re/Play system in BlackBoard.  (Click 
 ## Past exams:
 | Year  | Paper | Answers | Questions to ignore |
 | ----- | ----- | ------- | --- |
-| 20/21 | [pdf](/past_exams/main_2021.pdf) | [pdf](/past_exams/main_2021_answers.pdf) | 13,14,15 |
-| 21/22 | [pdf](/past_exams/main_2122.pdf) | [pdf](/past_exams/main_2122_answers.pdf) | 17,18,19,20 |
+| 20/21 | [pdf](/past_exams/main_2021.pdf) | [pdf](/past_exams/main_2021_answers.pdf) | 13,14|
+| 21/22 | [pdf](/past_exams/main_2122.pdf) | [pdf](/past_exams/main_2122_answers.pdf) | 17,19,20 |
 
 Important notes:
 * We have rejigged the course content a bit this year, so some questions are no longer relevant.  These questions are in the "Questions to ignore" column.
